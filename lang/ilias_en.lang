@@ -28,7 +28,7 @@ lastname#:#Last Name
 firstname#:#First Name
 email#:#E-Mail
 usr_id#:#User-ID
-course_id#:#Course-ID
+course_id#:#Course ID
 login#:#User-ID
 user_status#:#Status
 status_changed#:#Last status changed
@@ -86,3 +86,17 @@ conf_saved#:#Configuration saved
 
 date_of_report#:#Date of report
 owner_of_report#:#Owner of report
+
+company#:#Company
+reporting_date#:#Reporting Date
+course_type#:#Course Type
+course_ext_id#:#External Course ID
+devision#:#Responsible Division
+certificate_type#:#Certificate Type
+certificate_type_1#:#Certificate
+course_type_1#:#Seminar
+course_type_2#:#E-Learning
+course_type_3#:#Module Unit
+course_type#:#Course Type
+amount_of_certificates#:#Amount of valid Certificates
+course#:#Course

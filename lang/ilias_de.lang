@@ -82,3 +82,16 @@ conf_saved#:#Konfiguration gespeichert
 
 date_of_report#:#Datum Report
 owner_of_report#:#Besitzer Report
+
+company#:#Unternehmen
+reporting_date#:#Stichtag
+course_ext_id#:#Externe Kurs-ID
+devision#:#Fachbereich
+certificate_type#:#Zertifikatstyp
+certificate_type_1#:#Zertifikat
+course_type_1#:#Präsenzveranstaltung
+course_type_2#:#E-Learning
+course_type_3#:#Moduleinheit
+course_type#:#Kurstyp
+amount_of_certificates#:#Anzahl gültige Zertifikate
+course#:#Kurs
