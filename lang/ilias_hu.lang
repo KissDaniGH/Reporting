@@ -1,0 +1,88 @@
+reports#:#Riportok
+role#:#Szerep
+yes#:#Igen
+no#:#Nem
+
+report_courses_per_user#:#Riport felhasználónként, kurzusonként
+report_selected_courses_per_user#:#Kiválasztott felhasználók kurzusairól riport
+report_all_courses_per_user#:#Összes felhasználó kurzusairól riport
+report_users_per_course#:#Riport kurzusonként, felhasználónként
+report_all_users_per_course#:#Összes kurzus felhasználóiról riport
+report_selected_users_per_course#:#Kiválasztott kurzusok felhasználóiról riport
+report_users_per_test#:#Riport tesztenként, felhasználónként
+report_all_users_per_test#:#Összes teszt felhasználóiról riport
+report_selected_users_per_test#:#Kiválasztott tesztek felhasználóiról riport
+
+generated#:#sikeresen generálva.
+export_csv#:#Letöltés (CSV)
+export_excel#:#Letöltés (Excel)
+export_pdf#:#Letöltés (PDF)
+back#:#Vissza a kiválasztáshoz
+back_to_course#:#Vissza a kurzushoz
+report_generated#:#A PDF riportot sikeresen letöltötte
+employee_list#:#Alkalmazottak felsorolása
+course#:#Kurzus
+
+title#:#Cím
+lastname#:#Vezetéknév
+firstname#:#Keresztnév
+email#:#E-mail cím
+usr_id#:#Felhasználó azonosító
+course_id#:#Kurzus azonosító
+login#:#Felhasználó azonosító
+user_status#:#Állapot
+status_changed#:#Utolsó állapotmódosítás
+status_changed_from#:#Utolsó állapotmódosítás ettől
+status_changed_to#:#Utolsó állapotmódosítás eddig
+country#:#Ország
+department#:#Osztály
+path#:#Útvonal
+incl_inactive_users#:#inaktív felhasználók is benne legyenek
+active#:#Aktív
+inactive#:#Inaktív
+general_status#:#Általános állapot
+
+object_title#:#Cím
+object_percentage#:#Százalék
+object_status#:#Állapot
+object_type#:#Típus
+object_status_changed#:#Utolsó állapotmódosítás
+show_objects_in_course#:#Objektumok tanulási haladásának megjelenítése a kurzusokban
+assessment_title#:#Hozzárendelt cím
+
+status2#:#Sikeresen teljesítette
+status1#:#Folyamatban
+status0#:#Nem próbálkozott
+status3#:#Sikertelen
+
+date_from#:#Kezdő időpont
+date_from_unix#:#Kezdete
+date_to#:#Záró időpont
+date_to_unix#:#Vége
+all#:#Összes
+export_custom_excel#:#Formázott Excel letöltése
+permission_denied#:#Nincs jogosultsága elérni ezt a riportot
+plugin_not_activated#:#Riport bővítmény jelenleg nem aktív
+
+courses_per_user#:#Kurzusok felhasználónként
+users_per_course#:#Felhasználók kurzusonként
+users_per_test#:#Felhasználók tesztenként
+search_users#:#Felhasználók keresése
+search_courses#:#Kurzusok keresése
+search_tests#:#Tesztek keresése
+
+configuration#:#Beállítások
+header_image#:#PDF riportok - Fejléc képe
+header_image_info#:#PDF riportok fejlécében megjelenő kép elérési útvonala.<br><b>JasperReport Library szükséges!</b>
+restricted_user_access#:#Hozzáférés korlátozása
+no_restriction#:#Nincs korlátozás
+restricted_by_local_readability#:#Hozzáférés korlátozása helyi olvasási jogosultság alapján
+restricted_by_local_readability_description#:#Azok a szerepek kapnak hozzáférést, melyek rendelkeznek a 'Olvasási hozzáférés helyi felhasználói fiókokhoz' jogosultsággal.
+restricted_by_org_units#:#Hozzáférés korlátozása szervezeti egységek alapján
+restricted_by_org_units_description#:#A hozzáférés a szervezeti egység 'Tanulási haladás megtekintése' jogosultságától függ.
+jasper_reports_templates_path#:#PDF riportok - Útvonalsablonok
+jasper_reports_templates_path_info#:#JasperReport sablonok elérési útvonala.<br><b>JasperReport Library szükséges!</b>
+conf_saved#:#Beállításokat sikeren mentette
+
+date_of_report#:#Riport készítésének dátuma
+owner_of_report#:#Riport tulajdonosa
